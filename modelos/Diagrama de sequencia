@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-25T12:42:22.913Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.106 Safari/537.36" etag="ruwGWJol8ESqVmaNSMlE" version="14.7.9" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-06-25T13:00:24.714Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.106 Safari/537.36" etag="cT3wgaJrKTe0XsTFEtxc" version="14.7.9" type="github" pages="4">
   <diagram name="cliente" id="13e1069c-82ec-6db2-03f1-153e76fe0fe0">
     <mxGraphModel dx="2370" dy="1175" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -328,6 +328,14 @@
             <mxPoint x="532" y="278.89" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="PwOUoBTXva4wfcE3sRq-" name="modelo relacional">
+    <mxGraphModel dx="1422" dy="705" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="jBkq9tr-81Of2T4QkHz1-0" />
+        <mxCell id="jBkq9tr-81Of2T4QkHz1-1" parent="jBkq9tr-81Of2T4QkHz1-0" />
       </root>
     </mxGraphModel>
   </diagram>
